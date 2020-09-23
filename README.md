@@ -5,11 +5,14 @@ My name is Darragh, I'm an SRE based in Dublin
 ### Interests
   
  <p float="left">
-  <a href="https://aws.amazon.com/" target="_blank" >
+  <a href="https://aws.amazon.com/" target="_blank" title="aws">
     <img src="https://raw.githubusercontent.com/Aadghrr/Aadghrr/master/assets/aws.gif"  height="75" />
   </a>
-   <a href="https://www.python.org/" target="_blank" >
+   <a href="https://www.python.org/" target="_blank" title="python">
     <img src="https://raw.githubusercontent.com/Aadghrr/Aadghrr/master/assets/python.gif"  height="75" />
+  </a>
+    <a href="https://www.kx.com/" target="_blank" title="k">
+    <img src="https://raw.githubusercontent.com/Aadghrr/Aadghrr/master/assets/kx.png"  height="75" />
   </a>
  </p>
  
