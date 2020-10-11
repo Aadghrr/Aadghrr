@@ -14,6 +14,9 @@ My name is Darragh, I'm an SRE based in Dublin
     <a href="https://www.kx.com/" target="_blank" title="k">
     <img src="https://raw.githubusercontent.com/Aadghrr/Aadghrr/master/assets/kx.png"  height="75" />
   </a>
+   <a href="https://gcc.gnu.org/" target="_blank" title="c">
+    <img src="https://raw.githubusercontent.com/Aadghrr/Aadghrr/master/assets/c.gif"  height="75" />
+  </a>
  </p>
  
 
