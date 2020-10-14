@@ -17,6 +17,9 @@ My name is Darragh, I'm an SRE based in Dublin
    <a href="https://gcc.gnu.org/" target="_blank" title="c">
     <img src="https://raw.githubusercontent.com/Aadghrr/Aadghrr/master/assets/c.gif"  height="75" />
   </a>
+   <a href="https://www.docker.com/" target="_blank" title="docker">
+    <img src="https://raw.githubusercontent.com/Aadghrr/Aadghrr/master/assets/d.gif"  height="75" />
+  </a>
  </p>
  
 
