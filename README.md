@@ -22,6 +22,9 @@ https://leetcode.com/darraght/
    <a href="https://www.docker.com/" target="_blank" title="docker">
     <img src="https://raw.githubusercontent.com/Aadghrr/Aadghrr/master/assets/d.gif"  height="75" />
   </a>
+   <a href="https://www.docker.com/" target="_blank" title="kubernetes">
+    <img src="https://raw.githubusercontent.com/Aadghrr/Aadghrr/master/assets/k8s.gif"  height="75" />
+  </a>
  </p>
  
 
