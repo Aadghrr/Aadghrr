@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Darragh, I'm an SRE based in Dublin 
+My name is Darragh, ~~I'm an SRE based in Dublin~~ I'm a devops engineer based in London
 
 https://leetcode.com/darraght/
 
